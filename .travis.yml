@@ -22,3 +22,4 @@ deploy:
   api-key: f31b9624-cc42-4192-9d79-e932671777d5
     secure: $HEROKU_API_KEY
   app: devopslabs-helloworld-odim
+  #entrada do api-key do heroku ++ nome dado ao app
